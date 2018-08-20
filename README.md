@@ -7,3 +7,4 @@ Ferramentas de controle de versão:
 * GitLab
 * Subversion
 * CVS
+* Ronaldo
