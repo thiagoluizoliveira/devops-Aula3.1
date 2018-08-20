@@ -5,3 +5,4 @@ Ferramentas de controle de versão:
 * GitLab
 * Subversion
 * CVS
+* Thiago
